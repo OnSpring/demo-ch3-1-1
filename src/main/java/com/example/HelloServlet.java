@@ -30,5 +30,6 @@ public class HelloServlet extends HttpServlet { // ②
 		out.println("<p>Now data : " + nowDate + "</p>"); // ⑧
 		out.println("</body>");
 		out.println("</html>");
+		out.close();
 	}
 }
