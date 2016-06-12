@@ -6,7 +6,7 @@
 <html>
 <head></head>
 <body>
-<p>Hello, World!</p>
+<p>Hello, JSP!</p>
 <p>Now data : <%=nowDate%></p> <!-- ④ -->
 </body>
 </html>
